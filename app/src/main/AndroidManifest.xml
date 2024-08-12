@@ -26,7 +26,6 @@
 
 
     <application
-        tools:ignore="MissingApplicationIcon"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
